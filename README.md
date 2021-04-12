@@ -2,3 +2,7 @@
 
 2021-1S //
 Retroalimentacion ejercicios realizados en programacion orientada a objetos.
+
+# Game of life
+
+realizar mejoras (menu de seleccion, patrones pre-establecidos y control velocidad con teclas)
