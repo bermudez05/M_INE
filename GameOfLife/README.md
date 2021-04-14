@@ -1,5 +1,5 @@
 # Juego de la vida Conway
-Aspecto a mejorar:
+Aspectos a mejorar:
 - Crear un menu de opciones (interactividad total con mouse) opciones(pausa,reaunudar y seteo de matriz)
 (contemplar la posibilidad de guardar los patrones basicos)
 
