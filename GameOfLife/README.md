@@ -6,5 +6,5 @@ nota: actualmente el programa contempla esas funciones sin embargo no estan incl
 
 - Manejo de la velocida con teclas (alternativa: un cursos que permita con el mouse disminuir con una barra)
 
-*GameOfLife version primera presentacion : GameOfLife_N*
+*GameOfLife version primera presentacion : GameOfLife_N* \
 *Version actualizada : GameOfLife_L*
